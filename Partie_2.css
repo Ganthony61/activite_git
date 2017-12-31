@@ -1,0 +1,13 @@
+
+body {
+ margin:0;
+ font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-size:14px;
+ line-height:20px;
+ color:#555;
+ background-color:#fff
+}
+a {
+ color:#2fa4e7;
+ text-decoration:none
+}
